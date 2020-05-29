@@ -1,0 +1,59 @@
+  body{
+	  background-image:url("background.jpg");
+	  background-position:"top";
+  } 
+   
+
+h1{
+	
+	color:red;
+	font-size:300%;
+	font-family:Arial;
+	font-size:40px;
+	font-style:italic;
+	font-weight:bolder;
+	text-shadow:2px 2px blue;
+}
+
+    #nav-menu{
+		width:800px;
+		height:50px;
+		background-color:green;
+		margin:0 auto;
+	}
+	#nav-menu ul{}
+	#nav-menu ul li{
+		list-style-type:none;
+		margin:10px;
+		float:left;
+		}
+	#nav-menu ul li a{
+		text-decoration:none;
+		font-size:25px;
+		color:white;
+		font-weight:bolder;
+		
+		
+	}
+	
+	
+	
+.paragraph-style{
+	text-align:justify;
+	
+}
+.heading-style{
+	color:#000085;
+	font-style:bolder;
+	
+}
+
+
+#font-style{
+	
+	color:red;
+	font-style:bold;
+}
+.background-color{
+	background-color:lightblue;
+}
